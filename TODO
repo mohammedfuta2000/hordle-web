@@ -1,0 +1,9 @@
+1. update the appstore and playstore links when u deploy them to those pplatforms
+In your pages/index.tsx, replace these placeholder URLs with your actual ones:
+
+https://apps.apple.com/app/hordle (iOS App Store)
+https://play.google.com/store/apps/details?id=app.hordle (Google Play Store)
+
+2. really review the terms and privacy page content
+
+3. switch to a restricted supabase key to be used clientside browser
