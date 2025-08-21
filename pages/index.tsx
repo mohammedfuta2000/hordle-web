@@ -43,6 +43,17 @@ export default function Home() {
                 Download
               </Link>
             </nav>
+            <nav className="hidden md:flex space-x-6">
+  <Link href="#features" className="text-gray-600 hover:text-blue-600 transition-colors">
+    Features
+  </Link>
+  <Link href="/help" className="text-gray-600 hover:text-blue-600 transition-colors">
+    Help
+  </Link>
+  <Link href="#download" className="text-gray-600 hover:text-blue-600 transition-colors">
+    Download
+  </Link>
+</nav>
           </div>
         </header>
 
@@ -207,7 +218,7 @@ export default function Home() {
               </div>
               
               <div className="flex space-x-6 text-gray-600">
-                <a href="mailto:hello@hordle.app" className="hover:text-blue-600 transition-colors">
+                <a href="mailto:developer@hordle.app" className="hover:text-blue-600 transition-colors">
                   Contact
                 </a>
                 <a href="/privacy" className="hover:text-blue-600 transition-colors">

@@ -134,8 +134,8 @@ export default function Terms() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Contact Us</h2>
               <p className="text-gray-700">
                 Questions about these terms? Email us at{' '}
-                <a href="mailto:legal@hordle.app" className="text-blue-600 hover:underline">
-                  legal@hordle.app
+                <a href="mailto:developer@hordle.app" className="text-blue-600 hover:underline">
+                  developer@hordle.app
                 </a>
               </p>
             </section>

@@ -194,7 +194,7 @@ export default function Privacy() {
                 <li>Settings → Privacy Controls</li>
                 <li>Settings → Export Data</li>
                 <li>Settings → Delete Account</li>
-                <li>For complex requests, email us at privacy@hordle.app</li>
+                <li>For complex requests, email us at developer@hordle.app</li>
               </ul>
             </section>
 
@@ -324,9 +324,9 @@ export default function Privacy() {
               </p>
               <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
                 <ul className="text-gray-700 space-y-2">
-                  <li><strong>Privacy Questions:</strong> <a href="mailto:privacy@hordle.app" className="text-blue-600 hover:underline">privacy@hordle.app</a></li>
-                  <li><strong>General Support:</strong> <a href="mailto:support@hordle.app" className="text-blue-600 hover:underline">support@hordle.app</a></li>
-                  <li><strong>Data Protection Officer:</strong> <a href="mailto:dpo@hordle.app" className="text-blue-600 hover:underline">dpo@hordle.app</a></li>
+                  <li><strong>Privacy Questions:</strong> <a href="mailto:developer@hordle.app" className="text-blue-600 hover:underline">developer@hordle.app</a></li>
+                  <li><strong>General Support:</strong> <a href="mailto:developer@hordle.app" className="text-blue-600 hover:underline">developer@hordle.app</a></li>
+                  <li><strong>Data Protection Officer:</strong> <a href="mailto:developer@hordle.app" className="text-blue-600 hover:underline">developer@hordle.app</a></li>
                 </ul>
               </div>
               <p className="text-gray-700 mt-4">
